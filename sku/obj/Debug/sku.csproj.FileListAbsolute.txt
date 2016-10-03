@@ -1,0 +1,11 @@
+C:\Users\me\Documents\Job2015\MWR\sku\sku\bin\Debug\sku.exe.config
+C:\Users\me\Documents\Job2015\MWR\sku\sku\bin\Debug\sku.exe
+C:\Users\me\Documents\Job2015\MWR\sku\sku\bin\Debug\sku.pdb
+C:\Users\me\Documents\Job2015\MWR\sku\sku\obj\Debug\sku.exe
+C:\Users\me\Documents\Job2015\MWR\sku\sku\obj\Debug\sku.pdb
+C:\Users\me\Documents\Job2015\MWR\sku\sku\obj\Debug\sku.csprojResolveAssemblyReference.cache
+C:\Users\wtsang\Downloads\temp\sku\sku\bin\Debug\sku.exe.config
+C:\Users\wtsang\Downloads\temp\sku\sku\obj\Debug\sku.exe
+C:\Users\wtsang\Downloads\temp\sku\sku\obj\Debug\sku.pdb
+C:\Users\wtsang\Downloads\temp\sku\sku\bin\Debug\sku.exe
+C:\Users\wtsang\Downloads\temp\sku\sku\bin\Debug\sku.pdb
